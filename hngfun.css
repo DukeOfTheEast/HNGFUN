@@ -149,13 +149,13 @@ footer .bottom {
 }
 
 footer input {
-    width: 400px;
+    width: 350px;
     height: 86px;
     margin: 5px 0;
     border-radius: 10px;
     border: none;
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: bold;
     box-shadow: 0 3px 5px #333;
 }
