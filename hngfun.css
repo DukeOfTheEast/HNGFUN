@@ -66,6 +66,7 @@ ul {
 
 .search {
     max-width: auto;
+    position: relative;
 }
 
 .search form {
@@ -83,6 +84,10 @@ ul {
 
 .search input:focus {
     outline: none;
+}
+
+.search a {
+    position: absolute;
 }
 
 .control {
